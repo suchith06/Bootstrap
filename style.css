@@ -1,0 +1,25 @@
+*{
+	font-family: Philosopher;
+}
+
+
+img{
+	padding:10px;
+	padding-left: 10px;
+}
+h2{
+	padding-left: 600px;
+}
+
+footer{
+	background-color: black;
+	color:white;
+	text-align: center;
+	padding:10px;
+	border-radius: 10px;
+}
+
+p{
+	padding-left: 100px;
+	padding-right: 70px;
+}
